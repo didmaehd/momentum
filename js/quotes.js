@@ -1,43 +1,43 @@
 const quotes = [
 {
-    quotes:"Dream as if you'll live forever. Live as if you'll die today.",
-    author:"James Dean",
+    quotes:"何が嫌いかより何が好きかで自分を語れよ。",
+    author:"ワンピース　ルフィ",
 },
 {
-    quotes:"Good, better, best. Never let it rest. 'Til your good is better and your better is best.",
-    author:"St. Jerome",
+    quotes:"お前に出来ねえ事は俺がやる。俺に出来ねえ事をお前がやれ！",
+    author:"ワン・ピース　サンジ",
 },
 {
-    quotes:"It always seems impossible until it's done.",
-    author:"Nelson Mandela",
+    quotes:"他人にやらされてた練習を努力とは言わねえだろ。",
+    author:"メジャー　茂野五郎",
 },
 {
-    quotes:"Life is 10% what happens to you and 90% how you react to it.",
-    author:"Charles R. Swindoll",
+    quotes:"常に今日は明日の準備です。今日やったことは必ず明日に返ってくるんです。",
+    author:"俳優　水谷豊",
 },
 {
-    quotes:"When something is important enough, you do it even if the odds are not in your favor.",
-    author:"Elon Musk",
+    quotes:"楽しくやる。自然にやる。無理に大きく見せない。これが一番。",
+    author:"ネプチューン　原田泰造",
 },
 {
-    quotes:"It does not matter how slowly you go as long as you do not stop.",
-    author:"Confucius",
+    quotes:"勉強するから、何をしたいかわかる。勉強しないから、何をしたいか分からない。",
+    author:"ビートたけし",
 },
 {
-    quotes:"Everything has beauty, but not everyone sees it.",
-    author:"Confucius",
+    quotes:"本気でやらないと、本気で笑えないんだよ。",
+    author:"江頭２：５０",
 },
 {
     quotes:"If you fell down yesterday, stand up today.",
     author:"H. G. Wells",
 },
 {
-    quotes:"A will finds a way",
-    author:"Orison Swett Marden",
+    quotes:"そひょんはとっても大切なまま、ぱぱの娘なんだよ！",
+    author:"まま、ぱぱ",
 },
 {
-    quotes:"If you can dream it, you can do it.",
-    author:"Walt Disney",
+    quotes:"まま、ぱぱの娘で生まれてくれてありがとう！",
+    author:"まま、ぱぱ",
 }
 ];
 
