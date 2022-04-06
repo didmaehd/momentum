@@ -19,14 +19,16 @@ body {
 #greeting {
     font-size:35px;
 }
+
 #todo-list{
+    color: #392f31;
     font-size:25px;
     font-weight: 900;
     text-align: center;
 }
 
 #quote{
-    font-size:20px;
+    font-size:17px;
     font-weight: 900;
 }
 
