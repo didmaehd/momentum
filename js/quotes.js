@@ -28,10 +28,6 @@ const quotes = [
     author:"江頭２：５０",
 },
 {
-    quotes:"If you fell down yesterday, stand up today.",
-    author:"H. G. Wells",
-},
-{
     quotes:"そひょんはとっても大切なまま、ぱぱの娘なんだよ！",
     author:"まま、ぱぱ",
 },
