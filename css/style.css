@@ -1,0 +1,72 @@
+
+body {
+    margin: 0 auto;
+    bottom: 10;
+    padding: 0 30px 20px 30px;
+    font-family: 'Red Hat Mono', monospace;
+    font-weight: 900;
+    text-align: center;
+}
+
+.hidden{
+    display:none;
+}
+
+#clock {
+    font-size:45px;
+}
+
+#greeting {
+    font-size:35px;
+}
+#todo-list{
+    font-size:25px;
+    font-weight: 900;
+    text-align: center;
+}
+
+#quote{
+    font-size:20px;
+    font-weight: 900;
+}
+
+li{
+    display: inline-block;
+    width:100%;
+
+}
+#todo-form {
+    text-align:center;
+    padding: 20px;
+}
+
+ul {
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#resetButton{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+#weather {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-weight: 900;
+}
+
+img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    animation: fadeIn 0.5s linear;
+  }
+  
