@@ -69,18 +69,18 @@ img {
     height: 100%;
     z-index: -1;
     animation: fadeIn 0.5s linear;
-  }
+}
   
-  button{
+button{
     border: solid 2px grey;
     border-radius: 12px;
-  }
+}
 
-  form input[type='text']{
+form input[type='text']{
     border: solid 2px grey;
     border-radius: 12px;
-  }
+}
 
-  input::placeholder{
+input::placeholder{
     background-color: pink;
-  }
+}
